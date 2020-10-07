@@ -8,3 +8,7 @@
 ### Usage
 
 * Clients can use this website to find out the features of the app.
+
+### License
+
+MIT
