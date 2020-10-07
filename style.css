@@ -100,7 +100,7 @@ body{
   
   /* INFO */
   #info{
-    background:#333 url('.info-bg.jpg') no-repeat;
+    background:#333 url('./info-bg.jpg') no-repeat;
     color:#fff;
   }
   
