@@ -2,7 +2,7 @@
 
 ## This is an app website created using CSS & HTML
 
-* It is a 3 page website which is responsive.
+* It is a 4 page website which is responsive.
 * Flexbox grid had also been used on it.
 
 ### Usage

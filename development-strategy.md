@@ -1,16 +1,16 @@
 # Development Strategy
 
-> `name-of-project`
+> App Theme Website
 
 write a short description of your project:
-- who would want to use it?
-- why would they want to use it?
+- Users who want to download the app or get information about it.
+- To read about the features that the app contains.
 
 ## Wireframe
 
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe]()
+![Wireframe - app-design](https://user-images.githubusercontent.com/60271901/95391768-0fda7080-0911-11eb-88af-a35869dd46da.png)
 
 ## 0. Set-Up
 
@@ -21,6 +21,7 @@ __A User can see my initial repository and live demo__
 - Generate from Template
 - Write initial, basic README
 - Turn on GitHub Pages
+- Clone repo to work locally
 
 ## 1. __
 
@@ -28,26 +29,64 @@ __full user story description__
 
 ### Repo
 
-what branch(es) did you work on?
+Worked on Index branches:
+* Header
+* Showcase
+* Features 
+* Info
+* Footer
+
+Worked on About page branches:
+* Header 
+* Main 
+* Footer
+
+Worked on Services page branches:
+* Header
+* Main
+* Footer
+
+Worked on Contact page branches:
+* Header
+* Main
+* Footer
+
+Worked on images branch
+* Added image files to repo
+
+Worked on additional css branches
+* Added flexboxgrid
+* Added Font awesome css
 
 ### HTML
 
-what did you change in the HTML and why?
+Changed the font
 
 ### CSS
 
-what did you change in the CSS and why?
+Changed the layout for features
 
-## 2. ...
+## 2. Steps to follow
+* Clone the repo
+* Create project board
 
-...
-
-...
+### Steps to Repeat for each branch.
+* Add a note to the project board
+* Convert it to issue
+* Create Branch
+* Checkout to Branch
+* Add Code
+* Git Add
+* Git Commit
+* Git Push - u new branch
+* Go to github, compare and pull
+* Link PR to the issue
+* Merge
+* Move it to done on the project board
+* Git Checkout master (in terminal)
+* Git Pull to pull remote changes locally.
 
 ## Finishing Touches
 
-- Write final, complete README:
-  - [makeareadme.com](https://www.makeareadme.com/)
-  - [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-  - [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
-- Validate code to check for any last mistakes
+  - [README](https://github.com/sharafcs50/app-theme/blob/master/README.md)
+
