@@ -60,11 +60,11 @@ Worked on additional css branches
 
 ### HTML
 
-Changed the font
+Changed the font, changed image links.
 
 ### CSS
 
-Changed the layout for features
+Changed image links.
 
 ## 2. Steps to follow
 * Clone the repo
