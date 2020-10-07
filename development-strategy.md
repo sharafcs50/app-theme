@@ -1,6 +1,6 @@
 # Development Strategy
 
-> `App Theme Website
+> App Theme Website
 
 write a short description of your project:
 - Users who want to download the app or get information about it.
@@ -69,7 +69,7 @@ Changed the layout for features
 * Clone the repo
 * Create project board
 
-### Steps to Repeat 
+### Steps to Repeat for each branch.
 * Add a note to the project board
 * Convert it to issue
 * Create Branch
@@ -91,8 +91,5 @@ Changed the layout for features
 
 ## Finishing Touches
 
-- Write final, complete README:
-  - [makeareadme.com](https://www.makeareadme.com/)
-  - [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-  - [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
-- Validate code to check for any last mistakes
+  - [README](https://github.com/sharafcs50/app-theme/blob/master/README.md)
+
