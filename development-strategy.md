@@ -86,10 +86,6 @@ Changed the layout for features
 * Git Checkout master (in terminal)
 * Git Pull to pull remote changes locally.
 
-...
-
-...
-
 ## Finishing Touches
 
   - [README](https://github.com/sharafcs50/app-theme/blob/master/README.md)
